@@ -2,7 +2,7 @@
     width: 200px;
     height: 200px;
     line-height: 200px;
-    color: #2169A3;
+    color: #E6e6e4;
     text-transform: uppercase;
     text-align: center;
     cursor: pointer;
@@ -10,6 +10,7 @@
 
 .exemplo1 {
     background-color: orangered;
+    position: relative;
 }
 
 .exemplo2 {
