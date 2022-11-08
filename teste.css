@@ -10,7 +10,7 @@
 
 .exemplo1 {
     background-color: orangered;
-    position: absolute;
+    position: fixed;
     right: 0;
 }
 
