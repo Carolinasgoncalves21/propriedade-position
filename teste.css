@@ -10,18 +10,28 @@
 
 .exemplo1 {
     background-color: orangered;
-    position: relative;
+    position: absolute;
+    right: 0;
 }
 
 .exemplo2 {
     background-color: green;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .exemplofinal {
+    position: absolute;
     background-color: gold;
 }
 
 .exemplointerno {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
     width: 100px;
     height: 100px;
     line-height: 100px;
