@@ -1,6 +1,7 @@
 body {
     height: 300vh;
 }
+
 .exemplo {
     width: 200px;
     height: 200px;
@@ -14,6 +15,7 @@ body {
 .exemplo1 {
     background-color: orangered;
     position: fixed;
+    top: 50px;
     right: 0;
 }
 
