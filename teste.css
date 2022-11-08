@@ -21,14 +21,14 @@ body {
 
 .exemplo2 {
     background-color: green;
-    position: sticky;
+    position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
 }
 
 .exemplofinal {
-    position: absolute;
+    position: relative;
     background-color: gold;
 }
 
